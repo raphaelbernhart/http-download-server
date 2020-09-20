@@ -1,0 +1,20 @@
+{
+  "name": "http-download-server",
+  "version": "0.0.1",
+  "description": "A NodeJS server to download files via the http protocol.",
+  "main": "server.js",
+  "scripts": {
+    "start:dev": "live-server --port=80",
+    "build:dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelbernhart/http-download-server.git"
+  },
+  "author": "Raphael Bernhart",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelbernhart/http-download-server/issues"
+  },
+  "homepage": "https://github.com/raphaelbernhart/http-download-server#readme"
+}
